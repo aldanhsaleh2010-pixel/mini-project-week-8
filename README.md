@@ -1,8 +1,9 @@
 🚀 Day 40 Mini Project – Linear Transformation
 ------------------------>
 
-1️⃣
-In this project, I learned how linear transformation works using matrix multiplication 📊
+1️⃣  <In this project>:
+
+I learned how linear transformation works using matrix multiplication 📊
 We used this equation:
 
 Y = X @ W + b
